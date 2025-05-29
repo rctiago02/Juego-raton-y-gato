@@ -1,0 +1,20 @@
+implementacion 1 = Agregar un queso
+
+implementacion 2 = Agregar un muro
+
+implementacion 3 = Que las variables filas, columnas, y posicion de raton cambien respectivamente al permetir al usuario declarar
+
+implementacion 4 = Agregar mas de 1 queso y mas de 1 muro y aleatorizar la ubicacion de los quesos y de los muros.
+
+implementacion 5 = Crear minimax al gato   # DONE #
+
+implementacion 6 = Permitir al usuario elegir con que animalito jugar
+
+implementacion 7 = Minimax vs minimax
+
+implementacion 8 = movimientos agiles
+
+implementacion 9 = ir aumentando la dificultad del raton o el gato y guardar las victorias y derrotas de cada jugador
+### Juego Final ###
+
+
